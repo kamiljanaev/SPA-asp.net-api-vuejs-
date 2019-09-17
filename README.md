@@ -6,6 +6,8 @@ If you are looking for best practices for developing Vue.js application, you can
 - [node-vue-template](https://github.com/mubaidr/node-vue-template) A starter template for building complete application using Node.js and Vue.js with some included packages and configurations to help start the development quickly.
 - [activity-automation](https://github.com/mubaidr/activity-automation) Manage daily activity logging.
 - [ors-node](https://github.com/mubaidr/ors-node): [Work In Progress] A sample job portal oriented company web application.
+### Article
+https://developer.okta.com/blog/2018/09/07/build-simple-crud-with-aspnet-webapi-vue
 
 ### Description
 This application (named Management By OBjectives) is being developed with the following requirements in mind. 
